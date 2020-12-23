@@ -1,1 +1,3 @@
-# katana-customMenu
+# katana-menu
+
+Katana Menu creator
